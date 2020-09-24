@@ -1,1 +1,3 @@
-# fivem-richpresence
+# RichPresence on Discord for FiveM Servers!
+
+Client-Side Script!
