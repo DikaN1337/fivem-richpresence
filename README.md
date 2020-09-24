@@ -6,6 +6,9 @@ This script is for enabling RichPrensece on your server with different Configs.
 [PT]:
 Este script serve para ativar o RichPresence no teu servidor com Configs diferentes!
 
+# Compatibilities
+- All frameworks :D
+
 # Functions
 - Multiple Configs.
 - Simple use!
